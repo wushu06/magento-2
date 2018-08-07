@@ -41,6 +41,16 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    tbb: {
+        area: 'frontend',
+        name: 'Tbb/Swimbabes',
+        locale: 'en_GB',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
